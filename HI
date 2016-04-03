@@ -1,0 +1,6 @@
+#define<stdio.h>
+#define<conio.h>
+void main()
+{
+  printf("HI");
+}
